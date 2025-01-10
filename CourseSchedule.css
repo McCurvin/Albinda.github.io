@@ -1,0 +1,41 @@
+body, h1, table, th, td {
+    margin: 0;
+    padding: 0;
+    
+}
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+th, td {
+    border: 1px solid #0d2b5e;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.6;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    background-color: blanchedalmond;
+}
+thead {
+    background-color: #fdd5a86f;
+    text-align: center;
+}
+thead th {
+    padding: 20px;
+    font-size: 20px;
+}
+
+tbody td {
+    padding: 12px;
+    text-align: center;
+}
+
+.highlight {
+    background-color: #fdd5a86f;
+}
